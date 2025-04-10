@@ -1,0 +1,1 @@
+This repo contains lecture notes, resources and projects from classes I taught for Data science bootcamp at Gomycode

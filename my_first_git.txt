@@ -1,0 +1,3 @@
+print('Hello world')
+print('I am learning python')
+We are proceeding in the learning of GIT and command line
